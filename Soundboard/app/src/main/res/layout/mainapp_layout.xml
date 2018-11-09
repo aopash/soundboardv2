@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/background_main">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="-00dp"
+            android:orientation="vertical"
+            android:padding="80dp">
+
+            <Button
+                android:id="@+id/button_sound1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="fish"
+
+                />
+
+            <Button
+                android:id="@+id/button_sound2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="pop" />
+
+            <Button
+                android:id="@+id/button_sound3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="whistle" />
+
+            <Button
+                android:id="@+id/button_sound4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="whistle2" />
+
+            <Button
+                android:id="@+id/button_sound5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="whistle3" />
+
+            <Button
+                android:id="@+id/button_sound6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="hey" />
+
+
+            <Button
+                android:id="@+id/button_sound7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="cunt"
+
+                />
+
+            <Button
+                android:id="@+id/button_sound8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="dwarf" />
+
+            <Button
+                android:id="@+id/button_sound9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="devil" />
+
+            <Button
+                android:id="@+id/button_sound10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="god" />
+
+            <Button
+                android:id="@+id/button_sound11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="friends" />
+
+            <Button
+                android:id="@+id/button_sound12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="friends2" />
+
+
+            <Button
+                android:id="@+id/button_sound13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="friends3"
+
+                />
+
+            <Button
+                android:id="@+id/button_sound14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="dick" />
+
+            <Button
+                android:id="@+id/button_sound15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="friends4" />
+
+            <Button
+                android:id="@+id/button_sound16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="touch" />
+
+            <Button
+                android:id="@+id/button_sound17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="kitten" />
+
+            <Button
+                android:id="@+id/button_sound18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="saussage" />
+
+
+            <Button
+                android:id="@+id/button_sound19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="hear"
+
+                />
+
+            <Button
+                android:id="@+id/button_sound20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="flaps" />
+
+            <Button
+                android:id="@+id/button_sound21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="go on" />
+
+            <Button
+                android:id="@+id/button_sound22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="go on2" />
+
+            <Button
+                android:id="@+id/button_sound23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="fap" />
+
+            <Button
+                android:id="@+id/button_sound24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="come on" />
+
+
+            <Button
+                android:id="@+id/button_sound25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="biscuit"
+
+                />
+
+            <Button
+                android:id="@+id/button_sound26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="feeling" />
+
+            <Button
+                android:id="@+id/button_sound27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="feeling2" />
+
+            <Button
+                android:id="@+id/button_sound28"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="balls" />
+
+            <Button
+                android:id="@+id/button_sound29"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="bonnet" />
+
+            <Button
+                android:id="@+id/button_sound30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="bonnet2" />
+
+
+            <Button
+                android:id="@+id/button_sound31"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="my biscuit" />
+
+            <Button
+                android:id="@+id/button_sound32"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="god2" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
