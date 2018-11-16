@@ -131,6 +131,7 @@ ViewPager.OnPageChangeListener viewListener = new ViewPager.OnPageChangeListener
             mFinishBtn.setEnabled(false);
             mBackBtn.setVisibility(View.INVISIBLE);
             mFinishBtn.setVisibility(View.INVISIBLE);
+            mNextBtn.setVisibility(View.VISIBLE);
 
             mFinishBtn.setText("");
             mNextBtn.setText("Next");
@@ -154,6 +155,7 @@ ViewPager.OnPageChangeListener viewListener = new ViewPager.OnPageChangeListener
 
             mBackBtn.setVisibility(View.VISIBLE);
             mFinishBtn.setVisibility(View.INVISIBLE);
+            mNextBtn.setVisibility(View.VISIBLE);
 
 
             mFinishBtn.setText("");

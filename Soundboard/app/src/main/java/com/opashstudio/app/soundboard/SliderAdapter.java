@@ -29,7 +29,7 @@ public class SliderAdapter extends PagerAdapter {
     public String[] slide_heading = {
             "Strong Language",
             "Streamer Information",
-            "MainActivity warning"
+            "Application Warning"
     };
 
 
@@ -37,8 +37,7 @@ public class SliderAdapter extends PagerAdapter {
 
             "WARNING: THE FOLLOWING CONTENT MAY CONTAIN ELEMENTS THAT ARE NOT SUITABLE FOR SOME AUDIENCES, ACCORDINGLY VIEWER DISCRETION IS ADVISED",
             "Twitch.tv streamer by the handle Sweet_Anita that suffers from tourette's syndrome",
-            "This app is still in its early stage, some bugs may occur, please notify the developers of such. Some bugs get fixed just by restarting the app."+
-                    "Sounds may stop working if pressed too many times, but gets fixed with a restart"
+            "This app is still in its early stage, some bugs may occur, please notify the developers of such. Some bugs get fixed just by restarting the app. Sounds may stop working if pressed too many times, but gets fixed with a restart"
     };
 
 

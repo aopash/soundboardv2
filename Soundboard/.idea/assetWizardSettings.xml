@@ -18,12 +18,35 @@
                                 <PersistentState>
                                   <option name="children">
                                     <map>
+                                      <entry key="backgroundImage">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="scalingPercent" value="2" />
+                                                <entry key="trimmed" value="true" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                      <entry key="foregroundClipArt">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="trimmed" value="true" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
                                       <entry key="foregroundImage">
                                         <value>
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="scalingPercent" value="101" />
+                                                <entry key="scalingPercent" value="98" />
                                                 <entry key="trimmed" value="true" />
                                               </map>
                                             </option>
@@ -34,11 +57,16 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="backgroundLayerName" value="ic_launcher_background2" />
-                                      <entry key="foregroundImage" value="C:\Users\Aleksandar\AndroidStudioProjects\Soundboardv4\app\src\main\res\drawable\fish.png" />
-                                      <entry key="foregroundLayerName" value="fish2" />
-                                      <entry key="outputName" value="fish" />
+                                      <entry key="backgroundColor" value="ff00d0" />
+                                      <entry key="backgroundImage" value="C:\Users\Aleksandar\Documents\clear.psd" />
+                                      <entry key="backgroundLayerName" value="clearlayer2" />
+                                      <entry key="foregroundImage" value="C:\Users\Aleksandar\AndroidStudioProjects\Soundboard\app\src\main\appicon.png" />
+                                      <entry key="foregroundLayerName" value="appicon_layer" />
+                                      <entry key="legacyIconShape" value="NONE" />
+                                      <entry key="outputName" value="appicon" />
                                       <entry key="previewDensity" value="MEDIUM" />
+                                      <entry key="showGrid" value="true" />
+                                      <entry key="webIconShape" value="NONE" />
                                     </map>
                                   </option>
                                 </PersistentState>

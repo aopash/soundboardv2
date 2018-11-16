@@ -18,7 +18,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="-00dp"
             android:orientation="vertical"
-            android:padding="80dp">
+            android:padding="40dp">
 
             <Button
                 android:id="@+id/button_sound1"
@@ -290,6 +290,283 @@
                 android:layout_margin="5dp"
                 android:onClick="playSound"
                 android:text="god2" />
+
+
+
+
+
+
+
+
+
+
+            <Button
+                android:id="@+id/button_sound33"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="vegans"
+
+                />
+
+            <Button
+                android:id="@+id/button_sound34"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="adorable" />
+
+            <Button
+                android:id="@+id/button_sound35"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="becky" />
+
+            <Button
+                android:id="@+id/button_sound36"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="please" />
+
+            <Button
+                android:id="@+id/button_sound37"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="belly" />
+
+            <Button
+                android:id="@+id/button_sound38"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="butt" />
+
+
+            <Button
+                android:id="@+id/button_sound39"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="cactus"
+
+                />
+
+            <Button
+                android:id="@+id/button_sound40"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="combo" />
+
+            <Button
+                android:id="@+id/button_sound41"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="deck" />
+
+            <Button
+                android:id="@+id/button_sound42"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="explicit" />
+
+            <Button
+                android:id="@+id/button_sound43"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="yeah" />
+
+            <Button
+                android:id="@+id/button_sound44"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="frog" />
+
+
+            <Button
+                android:id="@+id/button_sound45"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="goat"
+
+                />
+
+            <Button
+                android:id="@+id/button_sound46"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="hai" />
+
+            <Button
+                android:id="@+id/button_sound47"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="i like" />
+
+            <Button
+                android:id="@+id/button_sound48"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="kitten" />
+
+            <Button
+                android:id="@+id/button_sound49"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="kitten hey" />
+
+            <Button
+                android:id="@+id/button_sound50"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="lick" />
+
+
+            <Button
+                android:id="@+id/button_sound51"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="no ron"
+
+                />
+
+            <Button
+                android:id="@+id/button_sound52"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="owl" />
+
+            <Button
+                android:id="@+id/button_sound53"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="peck" />
+
+            <Button
+                android:id="@+id/button_sound54"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="salad" />
+
+            <Button
+                android:id="@+id/button_sound55"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="screaming" />
+
+            <Button
+                android:id="@+id/button_sound56"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="slap" />
+
+
+            <Button
+                android:id="@+id/button_sound57"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="smaesh"
+
+                />
+
+            <Button
+                android:id="@+id/button_sound58"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="smash" />
+
+            <Button
+                android:id="@+id/button_sound59"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="smorc" />
+
+            <Button
+                android:id="@+id/button_sound60"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="soap" />
+
+            <Button
+                android:id="@+id/button_sound61"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="sticks" />
+
+            <Button
+                android:id="@+id/button_sound62"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:onClick="playSound"
+                android:text="touch X" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
         </LinearLayout>
